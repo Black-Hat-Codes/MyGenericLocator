@@ -1,4 +1,8 @@
 # MyGenericLocator
+This project is related to generic medicine easy access of generic medicines . Like we know there are many branded medicines which are costly to buy and also there are generic available in market which have same composition as them but people are not able to find and locate them and even if they are available its hard to know about them and where to find them and if you need multiple medicines and some of them are available at a particular store some are not then it will look for all the stores located near you and will tell you exactly which medicine is present at where . I thought of this idea because i was thinking of making something useful and i think it's a good idea. Thank You.
+
+
+
 import streamlit as st
 import networkx as nx
 import matplotlib.pyplot as plt
